@@ -131,9 +131,9 @@ const CountrySearch = () => {
                   e.target.style.display = "none";
                 }}
               />
-              <h3 style={{ margin: "0", textAlign: "center" }}>
+              <h2 style={{ margin: "0", textAlign: "center" }}>
                 {country.common}
-              </h3>
+              </h2>
             </div>
           ))}
         </div>
